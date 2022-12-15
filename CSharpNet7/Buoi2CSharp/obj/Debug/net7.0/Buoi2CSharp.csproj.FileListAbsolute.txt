@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\bin\Debug\net7.0\Buoi2CSharp.exe
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\bin\Debug\net7.0\Buoi2CSharp.deps.json
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\bin\Debug\net7.0\Buoi2CSharp.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\bin\Debug\net7.0\Buoi2CSharp.dll
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\bin\Debug\net7.0\Buoi2CSharp.pdb
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.dll
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\refint\Buoi2CSharp.dll
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.pdb
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\Buoi2CSharp.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\Buoi2CSharp\obj\Debug\net7.0\ref\Buoi2CSharp.dll
