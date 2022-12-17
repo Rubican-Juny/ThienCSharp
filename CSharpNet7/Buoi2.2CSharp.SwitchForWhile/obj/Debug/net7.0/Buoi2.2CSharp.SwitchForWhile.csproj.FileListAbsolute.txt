@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\bin\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.exe
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\bin\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.deps.json
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\bin\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\bin\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.dll
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\bin\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.pdb
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.dll
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\refint\Buoi2.2CSharp.SwitchForWhile.dll
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.pdb
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\Buoi2.2CSharp.SwitchForWhile.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\Buoi2.2CSharp.SwitchForWhile\obj\Debug\net7.0\ref\Buoi2.2CSharp.SwitchForWhile.dll

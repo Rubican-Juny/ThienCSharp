@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\bin\Debug\net7.0\RefOutRegexTryParse.exe
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\bin\Debug\net7.0\RefOutRegexTryParse.deps.json
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\bin\Debug\net7.0\RefOutRegexTryParse.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\bin\Debug\net7.0\RefOutRegexTryParse.dll
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\bin\Debug\net7.0\RefOutRegexTryParse.pdb
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.dll
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\refint\RefOutRegexTryParse.dll
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.pdb
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\RefOutRegexTryParse.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\RefOutRegexTryParse\obj\Debug\net7.0\ref\RefOutRegexTryParse.dll

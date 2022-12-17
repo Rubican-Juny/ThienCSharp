@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2CSharp", "Buoi2CSharp\Buoi2CSharp.csproj", "{BC9E3A37-CB2D-4C29-9B75-C037A902B440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi2CSharp", "Buoi2CSharp\Buoi2CSharp.csproj", "{BC9E3A37-CB2D-4C29-9B75-C037A902B440}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi2.2CSharp.SwitchForWhile", "Buoi2.2CSharp.SwitchForWhile\Buoi2.2CSharp.SwitchForWhile.csproj", "{7A1B350E-BE35-446E-8369-6143D38D3833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutRegexTryParse", "RefOutRegexTryParse\RefOutRegexTryParse.csproj", "{EDCBC0AD-A49B-4DC0-8312-F09A026394FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{BC9E3A37-CB2D-4C29-9B75-C037A902B440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC9E3A37-CB2D-4C29-9B75-C037A902B440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC9E3A37-CB2D-4C29-9B75-C037A902B440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1B350E-BE35-446E-8369-6143D38D3833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1B350E-BE35-446E-8369-6143D38D3833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1B350E-BE35-446E-8369-6143D38D3833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1B350E-BE35-446E-8369-6143D38D3833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCBC0AD-A49B-4DC0-8312-F09A026394FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCBC0AD-A49B-4DC0-8312-F09A026394FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCBC0AD-A49B-4DC0-8312-F09A026394FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCBC0AD-A49B-4DC0-8312-F09A026394FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
