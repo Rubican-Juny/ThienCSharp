@@ -26,4 +26,6 @@ RegexTryParse p = new();
 p.CheckNumberByRegex();
 p.CheckStringByTryParse();
 p.TryCatchBug();
-
+Human hu = new();
+hu.Show();
+hu.Check();

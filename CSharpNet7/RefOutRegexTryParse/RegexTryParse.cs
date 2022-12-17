@@ -53,7 +53,8 @@ namespace RefOutRegexTryParse
             catch(Exception e)
             {
                 Console.WriteLine($"{e.GetType()} : {e.Message}");
-                            }
+            }
+            Console.WriteLine("Nhập số lượng kết thúc");
         }
     }
 }
