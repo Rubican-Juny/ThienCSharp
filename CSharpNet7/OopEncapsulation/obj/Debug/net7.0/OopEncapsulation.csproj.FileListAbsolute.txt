@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.exe
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.deps.json
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.pdb
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\refint\OopEncapsulation.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.pdb
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\ref\OopEncapsulation.dll

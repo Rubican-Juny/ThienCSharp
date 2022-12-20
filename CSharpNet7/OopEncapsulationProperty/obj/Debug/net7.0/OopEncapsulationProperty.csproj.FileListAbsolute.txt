@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.exe
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.deps.json
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.pdb
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\refint\OopEncapsulationProperty.dll
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.pdb
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\OopEncapsulationProperty\obj\Debug\net7.0\ref\OopEncapsulationProperty.dll
