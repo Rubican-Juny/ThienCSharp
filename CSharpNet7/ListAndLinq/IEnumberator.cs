@@ -1,0 +1,3 @@
+﻿internal interface IEnumberator<T>
+{
+}

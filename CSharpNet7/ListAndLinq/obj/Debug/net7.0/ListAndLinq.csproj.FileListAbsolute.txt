@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.exe
+D:\ThienCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.deps.json
+D:\ThienCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.dll
+D:\ThienCSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.pdb
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.dll
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\refint\ListAndLinq.dll
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.pdb
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ref\ListAndLinq.dll

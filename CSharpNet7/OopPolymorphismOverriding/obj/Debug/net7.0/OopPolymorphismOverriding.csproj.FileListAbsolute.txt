@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\bin\Debug\net7.0\OopPolymorphismOverriding.exe
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\bin\Debug\net7.0\OopPolymorphismOverriding.deps.json
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\bin\Debug\net7.0\OopPolymorphismOverriding.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\bin\Debug\net7.0\OopPolymorphismOverriding.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\bin\Debug\net7.0\OopPolymorphismOverriding.pdb
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\refint\OopPolymorphismOverriding.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.pdb
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\OopPolymorphismOverriding.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismOverriding\obj\Debug\net7.0\ref\OopPolymorphismOverriding.dll

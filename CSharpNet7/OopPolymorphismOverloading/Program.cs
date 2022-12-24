@@ -20,3 +20,5 @@ basic3.Sum(5);
 
 //named argumemt
 basic1.Sum(num2: 5);
+//đảo trât tự luôn
+basic1.Sum(num2: 5,num1: 4);
