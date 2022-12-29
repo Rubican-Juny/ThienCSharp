@@ -15,6 +15,7 @@ namespace BT1_suabai.Menu
         public static void Show()
         {
             DalProduct dal = new();
+
             while (true )
             {
                 Console.WriteLine("Please choose: ");
@@ -32,6 +33,8 @@ namespace BT1_suabai.Menu
                         dal.Show();
                         break;
                     default:
+                        dal.ChangeColor(ConsoleColor.Red, ConsoleColor.White);
+                        dal.Add();
                         Console.WriteLine("END");
                         return;
                 }

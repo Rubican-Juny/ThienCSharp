@@ -31,10 +31,5 @@ namespace BT1_suabai.Dal
         {
             list.ForEach(Console.WriteLine);
         }
-
-        internal void ChangeColor(ConsoleColor white, ConsoleColor red)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

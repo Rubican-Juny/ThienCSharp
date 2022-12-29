@@ -8,7 +8,7 @@ namespace BT1_suabai.ExtensionMethod
 {
     static class ExtMethod
     {
-        public static void ChaneColor<T>(this T item, params ConsoleColor[] colors)
+        public static void ChangeColor<T>(this T item, params ConsoleColor[] colors)
         {
             Console.BackgroundColor = colors[0];
             Console.ForegroundColor = colors[1];
