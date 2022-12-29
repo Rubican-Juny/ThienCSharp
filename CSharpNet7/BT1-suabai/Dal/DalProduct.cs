@@ -1,0 +1,40 @@
+﻿using BT1_suabai.entity;
+using BT1_suabai.Helper;
+using BT1_suabai.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BT1_suabai.Dal
+{
+    internal class DalProduct : IProduct
+    {
+        public List<Product> list { get; set; } = new ();
+
+        public void Add()
+        {
+            var n = Validate<int>.Input("Please enter number of list");
+            for (int i = 0; i < n; i++){
+                Product pro = new();
+                pro.Id = Validate<string>.Input("Please enter id");
+                pro.Name = Validate<string>.Input("Please enter name");
+                pro.Price = Validate<double>.Input("Please enter double");
+                pro.Quantity = Validate<int>.Input("Please enter quantity");
+                pro.Mfg = Validate<DateTime>.Input("Please enter mfg");
+                list.Add(pro);
+            }
+        }
+
+        public void Show()
+        {
+            list.ForEach(Console.WriteLine);
+        }
+
+        internal void ChangeColor(ConsoleColor white, ConsoleColor red)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

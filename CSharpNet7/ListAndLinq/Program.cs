@@ -1,5 +1,6 @@
 ﻿
 using ListAndLinq;
+using System.Collections.Generic;
 using System.Text;
 
 Console.WriteLine("Start Program!");
@@ -59,11 +60,11 @@ foreach (var stu in students)
 //}
 
 //style 1 của linq nhưng thu gọn hơn
-Console.WriteLine("style 1:");
-foreach (var i in from stu in students where stu.Id > 2 select stu)
-{
-    Console.WriteLine(i);
-}
+//Console.WriteLine("style 1:");
+//foreach (var i in from stu in students where stu.Id > 2 select stu)
+//{
+//    Console.WriteLine(i);
+//}
 
 //style 2 của linq : method syntax
 //style 2 chạy nhanh hơn
@@ -73,10 +74,83 @@ Console.WriteLine("style2 :");
 //    Console.WriteLine(i);
 //}
 //style 2 nhưng gọn hơn
-foreach (var i in students.Where(stu => stu.Id > 2))
+foreach (var i2 in students.Where(stu => stu.Id > 2))
 {
-    Console.WriteLine(i);
+    Console.WriteLine(i2);
 }
 Console.WriteLine("cho mấy thằng giỏi xài");
 students.Where(stu => stu.Id > 2).ToList().ForEach(Console.WriteLine);
 
+var t = from stu in students
+select stu;
+
+IEnumerable<Student> i = from stu in students
+                          select stu;
+//với linq to object
+//khi sử dụng query syntax hay method syntax thi trả về không phải là list , hay array => IEnumerable (con của ienumerator duyệt qua collection: list ,array,dictionary,hashmap...) dùng để duyệt qua linq to object
+
+students.ForEach(Console.WriteLine);
+t.ToList().ForEach(Console.WriteLine);
+
+//==========================
+//Confeser sẽ viết như này
+//Phương thức của cái list không phải linq(áp dụng lambda)
+//nhanh hơn
+students.ForEach(
+    stu =>
+    {
+        if (stu.Id > 2)
+        {
+            Console.WriteLine(stu);
+        }
+    }
+);
+//linq method syntax
+students.Where(stu => stu.Id > 2)
+    .ToList()
+    .ForEach(Console.WriteLine);
+//
+var t2 = from stu in students
+        where stu.Id > 2
+        select stu;
+t2.ToList().ForEach(Console.WriteLine);
+
+//lấy thuộc tín từ sinh viên như câu select lấy các cột
+Console.WriteLine("lấy thuộc tín từ sinh viên như câu select lấy các cột");
+//Query syntax 
+Console.WriteLine("Query syntax");
+var t3 = from stu in students
+         where stu.Id > 2
+         select new
+         {
+             Info = $"{stu.Id} : {stu.Name}",
+             Birthday = stu.Dob
+         };
+t3.ToList().ForEach(Console.WriteLine);
+t3.ToList().ForEach(i => Console.WriteLine(i.Birthday));
+//Method syntax
+Console.WriteLine("Method syntax");
+students.Where(stu=>stu.Id>2)
+    .Select(stu => new
+    {
+        Info = $"{stu.Id} : {stu.Name}",
+        stu.Gender
+    }
+    )
+    .ToList()
+    .ForEach(Console.WriteLine);
+//sắp xếp trật tự:
+Console.WriteLine("Sắp xếp theo trật tự");
+Console.WriteLine( "Kiểu1:");
+students.Where(stu => stu.Id > 2)
+    .OrderBy(stu => stu.Id)
+    .ThenBy(stu => stu.Name)
+    .ToList()
+    .ForEach(Console.WriteLine);
+Console.WriteLine("Kiểu2:");
+
+students.Where(stu => stu.Id > 2)
+    .OrderByDescending(stu => stu.Id)
+    .ThenByDescending(stu => stu.Name)
+    .ToList()
+    .ForEach(Console.WriteLine);

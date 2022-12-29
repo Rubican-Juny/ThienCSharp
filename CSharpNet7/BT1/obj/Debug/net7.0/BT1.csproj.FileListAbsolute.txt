@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\BT1\bin\Debug\net7.0\BT1.exe
+D:\ThienCSharp\CSharpNet7\BT1\bin\Debug\net7.0\BT1.deps.json
+D:\ThienCSharp\CSharpNet7\BT1\bin\Debug\net7.0\BT1.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\BT1\bin\Debug\net7.0\BT1.dll
+D:\ThienCSharp\CSharpNet7\BT1\bin\Debug\net7.0\BT1.pdb
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.dll
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\refint\BT1.dll
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.pdb
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\BT1.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\BT1\obj\Debug\net7.0\ref\BT1.dll

@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.exe
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.deps.json
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\bin\Debug\net7.0\OopPolymorphismInterface.pdb
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\refint\OopPolymorphismInterface.dll
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.pdb
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\OopPolymorphismInterface.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\OopPolymorphismInterface\obj\Debug\net7.0\ref\OopPolymorphismInterface.dll

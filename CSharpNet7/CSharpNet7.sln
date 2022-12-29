@@ -19,13 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulationProperty", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismOverloading", "OopPolymorphismOverloading\OopPolymorphismOverloading.csproj", "{E50DF56F-596B-4A15-B842-F7F01616EAFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverriding", "OopPolymorphismOverriding\OopPolymorphismOverriding.csproj", "{9653A2C7-9ECD-4F10-931A-629DFB297807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismOverriding", "OopPolymorphismOverriding\OopPolymorphismOverriding.csproj", "{9653A2C7-9ECD-4F10-931A-629DFB297807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismInterface", "OopPolymorphismInterface\OopPolymorphismInterface.csproj", "{D2871C1E-774E-4AC9-9F29-64D63B346E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismInterface", "OopPolymorphismInterface\OopPolymorphismInterface.csproj", "{D2871C1E-774E-4AC9-9F29-64D63B346E51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{22A77D19-EF29-4FBB-ADEC-91535C2D953B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{22A77D19-EF29-4FBB-ADEC-91535C2D953B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{6D998D10-F681-4716-9619-9CF8683B2A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{6D998D10-F681-4716-9619-9CF8683B2A49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT1", "BT1\BT1.csproj", "{A388C4ED-9D82-4B18-B95A-C96BE8A6C59F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{E5D43709-F668-4B1F-970B-96E6DF88057A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1-suabai", "BT1-suabai\BT1-suabai.csproj", "{B9A7BD81-44D4-4E31-9197-D46EF1F03B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{6D998D10-F681-4716-9619-9CF8683B2A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D998D10-F681-4716-9619-9CF8683B2A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D998D10-F681-4716-9619-9CF8683B2A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A388C4ED-9D82-4B18-B95A-C96BE8A6C59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A388C4ED-9D82-4B18-B95A-C96BE8A6C59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A388C4ED-9D82-4B18-B95A-C96BE8A6C59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A388C4ED-9D82-4B18-B95A-C96BE8A6C59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D43709-F668-4B1F-970B-96E6DF88057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D43709-F668-4B1F-970B-96E6DF88057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D43709-F668-4B1F-970B-96E6DF88057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D43709-F668-4B1F-970B-96E6DF88057A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A7BD81-44D4-4E31-9197-D46EF1F03B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A7BD81-44D4-4E31-9197-D46EF1F03B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A7BD81-44D4-4E31-9197-D46EF1F03B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A7BD81-44D4-4E31-9197-D46EF1F03B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

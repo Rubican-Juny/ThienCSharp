@@ -49,3 +49,10 @@ int? length = name?.Length;
 // ?? tương tự dấu == , nếu cái gì đó bằng null thì lấy cái vế sau
 
 int? chieudai = name?.Length ?? 10;
+
+bool ok = false;
+while (ok)
+{
+    ok = true;
+    Console.WriteLine("ok");
+}

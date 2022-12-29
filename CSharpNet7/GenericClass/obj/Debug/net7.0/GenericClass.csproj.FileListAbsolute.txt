@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.exe
+D:\ThienCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.deps.json
+D:\ThienCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.dll
+D:\ThienCSharp\CSharpNet7\GenericClass\bin\Debug\net7.0\GenericClass.pdb
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.dll
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\refint\GenericClass.dll
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.pdb
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\GenericClass.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\GenericClass\obj\Debug\net7.0\ref\GenericClass.dll

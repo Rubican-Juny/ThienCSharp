@@ -1,0 +1,15 @@
+D:\ThienCSharp\CSharpNet7\BT1-suabai\bin\Debug\net7.0\BT1-suabai.exe
+D:\ThienCSharp\CSharpNet7\BT1-suabai\bin\Debug\net7.0\BT1-suabai.deps.json
+D:\ThienCSharp\CSharpNet7\BT1-suabai\bin\Debug\net7.0\BT1-suabai.runtimeconfig.json
+D:\ThienCSharp\CSharpNet7\BT1-suabai\bin\Debug\net7.0\BT1-suabai.dll
+D:\ThienCSharp\CSharpNet7\BT1-suabai\bin\Debug\net7.0\BT1-suabai.pdb
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.csproj.AssemblyReference.cache
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.AssemblyInfoInputs.cache
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.AssemblyInfo.cs
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.csproj.CoreCompileInputs.cache
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.dll
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\refint\BT1-suabai.dll
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.pdb
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\BT1-suabai.genruntimeconfig.cache
+D:\ThienCSharp\CSharpNet7\BT1-suabai\obj\Debug\net7.0\ref\BT1-suabai.dll
